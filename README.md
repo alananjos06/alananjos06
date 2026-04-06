@@ -13,7 +13,7 @@
 ***
 👩‍💻 **About me:**
 ---
-🎓 Information Systems student at Veiga de Almeida University<br>
+🎓 Information Systems Student at Veiga de Almeida University<br>
 💻 Full Stack Developer in Training <br>
 | Passionate about solving logic problems and creating amazing digital experiences. Always seeking to learn and deepen my knowledge to contribute to future open-source projects with developer communities.
 ***
