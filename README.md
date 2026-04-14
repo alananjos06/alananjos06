@@ -26,6 +26,6 @@
 🎯**Focus currently:**<br>
 - Programming Logic<br>
 - Academic Projects<br>
-- Desenvolvimento Web (Front-End)<br>
+- Web Development<br>
 
 ---
