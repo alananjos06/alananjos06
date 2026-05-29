@@ -55,7 +55,6 @@ Estou desenvolvendo projetos práticos para evoluir minhas habilidades
 ![MySQL](https://img.shields.io/badge/MYSQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-FFB6C1?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-FF85B3?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-FFC0CB?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
