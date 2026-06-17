@@ -19,7 +19,7 @@
 <h3 align="center"> 🎀 Sobre mim: </h3>
 
 <p align="center">
-Olá! Eu me chamo <strong>Alana</strong>, uma desenvolvedora full stack em formação que ama transformar ideias em código limpo e criativo.
+Olá! Eu me chamo <strong>Alana</strong>, uma desenvolvedora front-end que ama transformar ideias em código limpo e criativo.
 <br>
 Atualmente estudo HTML, CSS, JavaScript, React, Node.js, PHP e MySQL
 <br>
