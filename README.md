@@ -43,11 +43,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 <p align="center">
 🎀 Front-end com HTML, CSS, JavaScript, React e Angular
 <br>
-🍥 Mobile com Ionic e React Native
-<br>
 ✨ Back-end com Node.js, PHP e MySQL
-<br>
-🌸 Em constante evolução nos meus projetos
 <br>
 🚧 <strong>Em breve:</strong> Portfólio próprio! 
 </p>
@@ -63,8 +59,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-FF85B3?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-FFB6C1?style=for-the-badge&logo=react&logoColor=white)
-![Angular](https://img.shields.io/badge/ANGULAR-FF69B4?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/IONIC-FFC0CB?style=for-the-badge&logo=ionic&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-FF85B3?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -78,25 +72,10 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/NEXT.JS-FFB6C1?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/TAILWIND-FF69B4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/REACT%20NATIVE-FF85B3?style=for-the-badge&logo=react&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-FFC0CB?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-<h3 align="center">🎀 Projetos em Destaque: </h3>
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| [🌸 Nome do Projeto](link) | Breve descrição do que o projeto faz | React, TypeScript |
-| [🍥 Nome do Projeto](link) | Breve descrição do que o projeto faz | Angular, Ionic |
-| [✨ Nome do Projeto](link) | Breve descrição do que o projeto faz | Node.js, MySQL |
-
+![Angular](https://img.shields.io/badge/ANGULAR-FF69B4?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/IONIC-FFC0CB?style=for-the-badge&logo=ionic&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TAILWIND-FF85B3?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
 ---
