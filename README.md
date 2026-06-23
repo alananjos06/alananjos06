@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-anjos-aga222)
 [![GitHub](https://img.shields.io/badge/GITHUB-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alananjos06)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-FF85B3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aanjosxr)
-[![Email](https://img.shields.io/badge/📧-EMAIL-FF69B4?style=for-the-badge)](mailto:seuemail@gmail.com)
+[![Email](https://img.shields.io/badge/📧-EMAIL-FF69B4?style=for-the-badge)](mailto:anjosa840@gmail.com)
 
 </div>
 
@@ -30,7 +30,7 @@
 <br>
 Atualmente focada em: <strong>React</strong> e <strong>TypeScript</strong>
 <br>
-Projetos pessoais: construção sistemas interativos
+Projetos pessoais: construção de sistemas interativos
 <br>
 Hobbies: jogos, design, música e cappuccino
 <br>
