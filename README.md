@@ -89,7 +89,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 | 🚀 Criar portfólio próprio | Em breve |
 | 📱 Lançar app com Angular e Ionic | Em breve |
 | ☁️ Estudar Cloud (AWS) | Em breve |
-| 🎨 Criar design system próprio | Em breve |
 | 📝 Escrever artigos técnicos | Em andamento |
 
 </div>
@@ -132,5 +131,4 @@ De: Rio de Janeiro, RJ - Brasil 🌎
   
   <strong>✨ Obrigado pela visita ao meu perfil <3</strong>
   <br>
-  <sub>🚧 Portfólio em construção... em breve novidades!</sub>
 </div>
