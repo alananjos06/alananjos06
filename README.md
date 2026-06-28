@@ -26,7 +26,7 @@
 <h3 align="center"> Sobre mim: </h3>
 
 <p align="center">
-<strong>Sou a Alana</strong> — uma desenvolvedora front-end apaixonada por código criativo e interfaces encantadoras
+<strong>Sou a Alana</strong> — uma desenvolvedora full stack apaixonada por código criativo e interfaces encantadoras
 <br>
 Atualmente focada em: <strong>React</strong> e <strong>TypeScript</strong>
 <br>
