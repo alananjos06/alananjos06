@@ -59,6 +59,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-FF85B3?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-FFB6C1?style=for-the-badge&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/NEXT.JS-FF85B3?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-FF85B3?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -86,7 +87,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 
 | Meta | Status |
 |------|--------|
-| 🚀 Criar portfólio próprio | Em breve |
+| 🚀 Criar portfólio próprio | Concluído |
 | 📱 Lançar app com Angular e Ionic | Em breve |
 | ☁️ Estudar Cloud (AWS) | Em breve |
 | 📝 Escrever artigos técnicos | Em andamento |
@@ -117,7 +118,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
   <p>
     <img src="https://img.shields.io/badge/💌-OPEN%20TO%20COLLAB-FF69B4?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🌱-ALWAYS%20LEARNING-FFB6C1?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚧-PORTFÓLIO%20EM%20BREVE-FF85B3?style=for-the-badge" />
   </p>
   
   <br>
