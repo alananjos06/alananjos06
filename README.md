@@ -38,16 +38,10 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 <br>
 </p>
 
-<br>
-
 <p align="center">
-🎀 Front-end com HTML, CSS, JavaScript, React e Angular
+🎀 Front-end com JavaScript, React e TypeScript
 <br>
 ✨ Back-end com Node.js, PHP e MySQL
-<br>
-🚧 <strong>Em breve:</strong> Portfólio próprio! 
-</p>
-
 <br>
 
 <h3 align="center">🍥 Tech Stack </h3>
@@ -66,8 +60,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 ![Git](https://img.shields.io/badge/GIT-FFC0CB?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
-<br>
 
 <h3 align="center">📚 Em Aprendizado: </h3>
 
