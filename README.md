@@ -79,7 +79,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 
 | Meta | Status |
 |------|--------|
-| 🚀 Criar portfólio próprio | Concluído |
+| 🚀 Criar portfólio próprio | Concluido |
 | 📱 Lançar app com Angular e Ionic | Em breve |
 | ☁️ Estudar Cloud (AWS) | Em breve |
 | 📝 Escrever artigos técnicos | Em andamento |
