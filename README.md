@@ -41,7 +41,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 <p align="center">
 🎀 Front-end com JavaScript, React e TypeScript
 <br>
-✨ Back-end com Node.js, PHP e MySQL
+✨ Back-end com Node.js e MySQL
 <br>
 
 <h3 align="center">🍥 Tech Stack </h3>
@@ -55,7 +55,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 ![React](https://img.shields.io/badge/REACT-FFB6C1?style=for-the-badge&logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-FF85B3?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/NODE.JS-FF85B3?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-FF69B4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-FFB6C1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-FFC0CB?style=for-the-badge&logo=git&logoColor=white)
 
@@ -78,10 +77,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 | Meta | Status |
 |------|--------|
 | 🚀 Criar portfólio próprio | Concluido |
-| 📱 Lançar app com Angular e Ionic | Em breve |
 | ☁️ Estudar Cloud (AWS) | Em breve |
-| 📝 Escrever artigos técnicos | Em andamento |
-
 </div>
 
 ---
