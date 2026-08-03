@@ -65,8 +65,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 
 <div align="center">
 
-![Angular](https://img.shields.io/badge/ANGULAR-FF69B4?style=for-the-badge&logo=angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/IONIC-FFC0CB?style=for-the-badge&logo=ionic&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TAILWIND-FF85B3?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-FF69B4?style=for-the-badge&logo=docker&logoColor=white)
 </div>
