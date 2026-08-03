@@ -76,18 +76,8 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 
 | Meta | Status |
 |------|--------|
-| 🚀 Criar portfólio próprio | Concluido |
-| ☁️ Estudar Cloud (AWS) | Em breve |
-</div>
-
----
-
-<h3 align="center">🎀 Estatísticas: </h3>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=alananjos06&theme=radical&hide_border=true&background=FFF0F5&ring=FF69B4&fire=FF85B3&currStreakLabel=FF69B4&sideNums=FF69B4&currStreakNum=FF85B3&dates=FFB6C1" />
-
+| Criar portfólio próprio | Concluido |
+| Construir API Rest com autenticação | Em breve |
 </div>
 
 ---
