@@ -44,7 +44,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 ✨ Back-end com Node.js e MySQL
 <br>
 
-<h3 align="center">🍥 Tech Stack </h3>
+<h3 align="center">Tech Stack </h3>
 
 <div align="center">
 
