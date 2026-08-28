@@ -52,13 +52,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 
 </div>
 
-<h3 align="center">📚 Em Aprendizado: </h3>
-
-<div align="center">
-
-![Tailwind](https://img.shields.io/badge/TAILWIND-FF85B3?style=for-the-badge&logo=tailwind-css&logoColor=white)
-</div>
-
 ---
 
 <h3 align="center">🎯 Metas para 2026: </h3>
@@ -68,7 +61,7 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 | Meta | Status |
 |------|--------|
 | Criar portfólio próprio | Concluido |
-| Construir API Rest com autenticação | Em breve |
+| Construir API Rest com autenticação | Em andamento |
 </div>
 
 ---
