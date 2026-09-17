@@ -61,7 +61,8 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 | Meta | Status |
 |------|--------|
 | Criar portfólio próprio | Concluido |
-| Construir API Rest com autenticação | Em andamento |
+| Construir API Rest com autenticação | Concluído |
+| Deploy do FinFreela | Em andamento |
 </div>
 
 ---
