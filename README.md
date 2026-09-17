@@ -1,89 +1,116 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=alananjos06&color=FF69B4&style=flat-square&label=🌸+VISITAS" alt="Contador de visitas"/>
-</div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,100:C86DD7&height=190&section=header&text=ALANA%20ANJOS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&multiline=true&width=500&height=55&lines=🌸+Hello!+I'm+Alana+%3C3+;Welcome+to+my+Github!+✨" alt="Typing SVG"/>
-  </a>
-</div>
+**Bem-vinda ao meu mundo.**
 
-<br>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-anjos-aga222)
-[![GitHub](https://img.shields.io/badge/GITHUB-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alananjos06)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FF85B3?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aanjosxr)
-[![Email](https://img.shields.io/badge/📧-EMAIL-FF69B4?style=for-the-badge)](mailto:anjosa840@gmail.com)
+![Frontend](https://img.shields.io/badge/FRONTEND-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
+![React](https://img.shields.io/badge/⚛️_REACT_POWERED-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
+![UI](https://img.shields.io/badge/UI%2FUX-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
 
 </div>
 
 ---
 
-<h3 align="center"> Sobre mim: </h3>
+### `> Sobre`
 
-<p align="center">
-<strong>Sou a Alana</strong> — uma desenvolvedora full stack apaixonada por código criativo e interfaces encantadoras
-<br>
-Atualmente focada em: <strong>React</strong> e <strong>TypeScript</strong>
-<br>
-Projetos pessoais: construção de sistemas interativos
-<br>
-Hobbies: jogos, design, música e cappuccino
-<br>
-De: Rio de Janeiro, RJ - Brasil 🌎
-<br>
-</p>
+Desenvolvedora full stack apaixonada por código criativo e interfaces encantadoras.
 
-<h3 align="center">Tech Stack </h3>
+Atualmente focada em **React** e **TypeScript**. Trabalho na construção de sistemas interativos e projetos pessoais.
+
+**Foco:** interfaces • sistemas interativos • código limpo
+
+De Rio de Janeiro, RJ — Brasil 🌎
+
+---
+
+### `> Tech-stack`
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFC0CB?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-FF85B3?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/REACT-FFB6C1?style=for-the-badge&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/NODE.JS-FF85B3?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-FFC0CB?style=for-the-badge&logo=git&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF6FD8)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF6FD8)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FF6FD8)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FF6FD8)
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FF6FD8)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=FF6FD8)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FF6FD8)
 
 </div>
 
 ---
 
-<h3 align="center">🎯 Metas para 2026: </h3>
+### `> Projetos`
+
+| Projeto | Status | Descrição | |
+|---|---|---|---|
+| **GitAudit-AI** | ✅ Concluído | Ferramenta com IA que cruza currículos em PDF com commits do GitHub, feita em Python + Groq. | [Ver projeto](https://github.com/alananjos06/GitAudit-AI) |
+| **educador-financeiro-inteligente** | 🔧 Em andamento | Sistema de educação financeira inteligente. | [Ver projeto](https://github.com/alananjos06/educador-financeiro-inteligente) |
+| **meu-portfolio** | ⚙️ A ajustar | Portfólio pessoal em TypeScript. | [Ver projeto](https://github.com/alananjos06/meu-portfolio) |
+| **site-empresarial** | ✅ Concluído | Website empresarial para um restaurante. | [Ver projeto](https://github.com/alananjos06/site-empresarial) |
+| **geo-explorer** | ✅ Concluído | Projeto de exploração geográfica em JavaScript. | [Ver projeto](https://github.com/alananjos06/geo-explorer) |
+
+---
+
+### `> Objetivos`
+
+```bash
+$ cat objectives.txt
+
+[01] ████████████████████  Criar portfólio próprio        [CONCLUÍDO]
+[02] ████████████████████  Construir API REST c/ auth     [CONCLUÍDO]
+[03] ██████████░░░░░░░░░░  Deploy do FinFreela            [EM ANDAMENTO]  
+
+STATUS: MISSION_IN_PROGRESS
+```
+
+---
+
+### `> GitHub --stats`
 
 <div align="center">
 
-| Meta | Status |
-|------|--------|
-| Criar portfólio próprio | Concluido |
-| Construir API Rest com autenticação | Concluído |
-| Deploy do FinFreela | Em andamento |
+<img src="https://github-readme-stats.vercel.app/api?username=alananjos06&show_icons=true&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&icon_color=FF6FD8&border_color=FF6FD8&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alananjos06&layout=compact&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&border_color=FF6FD8" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alananjos06&background=0D1117&stroke=FF6FD8&ring=FF6FD8&fire=FF6FD8&currStreakLabel=FF6FD8" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alananjos06&bg_color=0D1117&color=FF6FD8&line=FF6FD8&point=FFFFFF&hide_border=true" width="95%" />
+
+</div>
+
+### `> Trophies`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alananjos06&theme=radical&no-frame=true&row=1&column=7" />
+
+</div>
+
+> O serviço de trophies não tem um tema exatamente rosa — usei "radical" (rosa/vermelho), o mais próximo disponível. Se quiser trocar, os temas possíveis são: `flat`, `onedark`, `gruvbox`, `dracula`, `monokai`, `chalk`, `nord`, `algolia`, `darkhub`, `juicyfresh`, `buddhism`, `oldhu`, `radical`, `onestar`, `discord`, `google`.
+
+### `> Snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alananjos06/alananjos06/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
 </div>
 
 ---
 
-<br>
-
 <div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/💌-OPEN%20TO%20COLLAB-FF69B4?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🌱-ALWAYS%20LEARNING-FFB6C1?style=for-the-badge" />
-  </p>
-  
-  <br>
-  
-  <img src="./bat.png" width="60px">
-  <img src="./fox.png" width="60px">
-  <img src="./programing.png" width="60px">
-  
-  <br>
-  <br>
-  
-  <strong>✨ Obrigado pela visita ao meu perfil <3</strong>
-  <br>
+
+CODE • BUILD • CREATE • REPEAT
+
+*ALANA // ONLINE*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6FD8)](https://linkedin.com/in/alana-anjos-aga222/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FF6FD8)](https://github.com/alananjos06)
+
+<img src="https://komarev.com/ghpvc/?username=alananjos06&color=FF6FD8&style=flat-square&label=PERFIL+VISUALIZADO" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C86DD7,100:FF6FD8&height=80&section=footer" width="100%"/>
+
 </div>
