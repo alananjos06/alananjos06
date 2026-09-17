@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,100:C86DD7&height=190&section=header&text=ALANA%20ANJOS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-**Bem-vinda ao meu mundo <3**
+**Bem-vinda(o) ao meu mundo <3**
 
 ![Frontend](https://img.shields.io/badge/FRONTEND-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
 ![React](https://img.shields.io/badge/⚛️_REACT_POWERED-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
@@ -21,7 +21,7 @@ Atualmente focada em **React** e **TypeScript**. Trabalho na construção de sis
 
 **Foco:** interfaces • sistemas interativos • código limpo
 
-De Rio de Janeiro, RJ — Brasil 
+De Rio de Janeiro, RJ — Brasil 🌎
 
 ---
 
@@ -60,7 +60,7 @@ $ cat objectives.txt
 
 [01] ████████████████████  Criar portfólio próprio        [CONCLUÍDO]
 [02] ████████████████████  Construir API REST c/ auth     [CONCLUÍDO]
-[[03] ██████████░░░░░░░░░░ Deploy do FinFreela            [EM ANDAMENTO]
+[03] ██████████░░░░░░░░░░  Deploy do FinFreela            [EM ANDAMENTO]
 
 STATUS: MISSION_IN_PROGRESS
 ```
@@ -71,8 +71,8 @@ STATUS: MISSION_IN_PROGRESS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alananjos06&show_icons=true&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&icon_color=FF6FD8&border_color=FF6FD8&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alananjos06&layout=compact&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&border_color=FF6FD8" width="49%" />
+<img src="https://github-stats-extended-frontend-six-plum.vercel.app/api?username=alananjos06&show_icons=true&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&icon_color=FF6FD8&border_color=FF6FD8&count_private=true" width="49%" />
+<img src="https://github-stats-extended-frontend-six-plum.vercel.app/api/top-langs/?username=alananjos06&layout=compact&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&border_color=FF6FD8" width="49%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alananjos06&background=0D1117&stroke=FF6FD8&ring=FF6FD8&fire=FF6FD8&currStreakLabel=FF6FD8" width="70%" />
 
