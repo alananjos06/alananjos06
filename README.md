@@ -76,7 +76,7 @@ STATUS: MISSION_IN_PROGRESS
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alananjos06&background=0D1117&stroke=FF6FD8&ring=FF6FD8&fire=FF6FD8&currStreakLabel=FF6FD8" width="70%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alananjos06&bg_color=0D1117&color=FF6FD8&line=FF6FD8&point=FFFFFF&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alananjos06&bg_color=0D1117&color=FF6FD8&line=FF6FD8&point=FFFFFF&hide_border=true&v=1" width="95%" />
 
 </div>
 
