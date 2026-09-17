@@ -67,12 +67,6 @@ De: Rio de Janeiro, RJ - Brasil 🌎
 
 ---
 
-<h3 align="center"> 🎀 Gráfico de Contribuição: </h3>
-
-<div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alananjos06&bg_color=FFF0F5&color=FF69B4&line=FF85B3&point=FFB6C1&area=true&hide_border=true" />
-</div>
-
 <br>
 
 <div align="center">
