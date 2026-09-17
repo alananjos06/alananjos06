@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6FD8,100:C86DD7&height=190&section=header&text=ALANA%20ANJOS&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18&descColor=ffffff" width="100%"/>
 
-**Bem-vinda ao meu mundo.**
+**Bem-vinda ao meu mundo <3**
 
 ![Frontend](https://img.shields.io/badge/FRONTEND-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
 ![React](https://img.shields.io/badge/⚛️_REACT_POWERED-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FD8)
@@ -21,7 +21,7 @@ Atualmente focada em **React** e **TypeScript**. Trabalho na construção de sis
 
 **Foco:** interfaces • sistemas interativos • código limpo
 
-De Rio de Janeiro, RJ — Brasil 🌎
+De Rio de Janeiro, RJ — Brasil 
 
 ---
 
@@ -60,7 +60,7 @@ $ cat objectives.txt
 
 [01] ████████████████████  Criar portfólio próprio        [CONCLUÍDO]
 [02] ████████████████████  Construir API REST c/ auth     [CONCLUÍDO]
-[03] ██████████░░░░░░░░░░  Deploy do FinFreela            [EM ANDAMENTO]  
+[[03] ██████████░░░░░░░░░░ Deploy do FinFreela            [EM ANDAMENTO]
 
 STATUS: MISSION_IN_PROGRESS
 ```
@@ -87,8 +87,6 @@ STATUS: MISSION_IN_PROGRESS
 <img src="https://github-profile-trophy.vercel.app/?username=alananjos06&theme=radical&no-frame=true&row=1&column=7" />
 
 </div>
-
-> O serviço de trophies não tem um tema exatamente rosa — usei "radical" (rosa/vermelho), o mais próximo disponível. Se quiser trocar, os temas possíveis são: `flat`, `onedark`, `gruvbox`, `dracula`, `monokai`, `chalk`, `nord`, `algolia`, `darkhub`, `juicyfresh`, `buddhism`, `oldhu`, `radical`, `onestar`, `discord`, `google`.
 
 ### `> Snake`
 
