@@ -73,7 +73,7 @@ STATUS: MISSION_IN_PROGRESS
 <img src="https://github-stats-extended-frontend-six-plum.vercel.app/api?username=alananjos06&show_icons=true&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&icon_color=FF6FD8&border_color=FF6FD8&count_private=true" width="49%" />
 <img src="https://github-stats-extended-frontend-six-plum.vercel.app/api/top-langs/?username=alananjos06&layout=compact&bg_color=0D1117&title_color=FF6FD8&text_color=c9d1d9&border_color=FF6FD8" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alananjos06&background=0D1117&stroke=FF6FD8&ring=FF6FD8&fire=FF6FD8&currStreakLabel=FF6FD8&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&disable_animations=true" width="70%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alananjos06&bg_color=0D1117&color=FF6FD8&line=FF6FD8&point=FFFFFF&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph-seven-rho.vercel.app/graph?username=alananjos06&bg_color=0D1117&color=FF6FD8&line=FF6FD8&point=FFFFFF&hide_border=true" width="95%" />
 </div>
 
 ---
