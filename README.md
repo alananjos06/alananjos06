@@ -21,7 +21,7 @@ Atualmente focada em **React** e **TypeScript**. Trabalho na construção de sis
 
 **Foco:** interfaces • sistemas interativos • código limpo
 
-De Rio de Janeiro, RJ — Brasil 🌎
+De Rio de Janeiro, RJ — Brasil
 
 ---
 
@@ -46,7 +46,7 @@ De Rio de Janeiro, RJ — Brasil 🌎
 | Projeto | Status | Descrição | |
 |---|---|---|---|
 | **GitAudit-AI** | ✅ Concluído | Ferramenta com IA que cruza currículos em PDF com commits do GitHub, feita em Python + Groq. | [Ver projeto](https://github.com/alananjos06/GitAudit-AI) |
-| **educador-financeiro-inteligente** | 🔧 Em andamento | Sistema de educação financeira inteligente. | [Ver projeto](https://github.com/alananjos06/educador-financeiro-inteligente) |
+| **educador-financeiro-inteligente** | 🔧 Em andamento | Sistema financeiro Full Stack (API Node.js, PostgreSQL, React) com gestão de regras de negócio | [Ver projeto](https://github.com/alananjos06/educador-financeiro-inteligente) |
 | **meu-portfolio** | ⚙️ A ajustar | Portfólio pessoal em TypeScript. | [Ver projeto](https://github.com/alananjos06/meu-portfolio) |
 | **site-empresarial** | ✅ Concluído | Website empresarial para um restaurante. | [Ver projeto](https://github.com/alananjos06/site-empresarial) |
 | **geo-explorer** | ✅ Concluído | Projeto de exploração geográfica em JavaScript. | [Ver projeto](https://github.com/alananjos06/geo-explorer) |
