@@ -82,6 +82,12 @@ STATUS: MISSION_IN_PROGRESS
 
 CODE • BUILD • CREATE • REPEAT
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alananjos06/alananjos06/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alananjos06/alananjos06/output/github-contribution-grid-snake.svg" />
+  <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/alananjos06/alananjos06/output/github-contribution-grid-snake.svg" />
+</picture>
+
 *ALANA // ONLINE*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6FD8)](https://linkedin.com/in/alana-anjos-aga222/)
