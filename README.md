@@ -60,7 +60,7 @@ $ cat objectives.txt
 
 [01] ████████████████████  Criar portfólio próprio        [CONCLUÍDO]
 [02] ████████████████████  Construir API REST c/ auth     [CONCLUÍDO]
-[03] ██████████░░░░░░░░░░  Deploy do FinFreela            [EM ANDAMENTO]
+[03] ████████████████████  Deploy do FinFreela            [CONCLUÍDO]
 
 STATUS: MISSION_IN_PROGRESS
 ```
